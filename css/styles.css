@@ -1,12 +1,22 @@
 body {
   color: rgb(71, 57, 64);
-  text-align: left;
+  text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#cabecera {
+  background: cornflowerblue;
+  color: white;
+  font-weight: 400;
+  margin: 0;
+  padding: 0.5cm;
 }
 
 #container {
   width: 70%;
-  padding: 1en;
+  padding: 0;
   text-align: left;
   border: 1px solid snow;
   margin: 0 auto;
